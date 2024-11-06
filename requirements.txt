@@ -1,0 +1,10 @@
+keras
+matplotlib
+numpy
+progress
+PyWavelets
+seaborn
+tensorflow
+scikit-learn
+split-folders
+opencv-python
